@@ -5,6 +5,7 @@ A Flappy Bird Clone made using python-pygame
 # HOW TO PLAY:
 
 Install Python
+
 Install PyGame 1.9.X or higher version
 
 # Controllers:
