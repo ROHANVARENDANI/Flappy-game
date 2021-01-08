@@ -2,11 +2,11 @@
 
 A Flappy Bird Clone made using python-pygame
 
-#HOW TO PLAY:
+# HOW TO PLAY:
 
 Install Python
 Install PyGame 1.9.X or higher version
 
-Controllers:
+# Controllers:
 
 Use Space or left-mouse-button to jump or Esc to exit.
